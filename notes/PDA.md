@@ -24,3 +24,5 @@ Examples:
   Example:
 
 - 255
+
+![](image_2.png)

@@ -11,3 +11,5 @@ Interface Definition Language
 
 - IDL is like an ABI, because it contains functions that can be called on a program.
 - So, in Program A, we have to _import IDL_. With that, Program A will be able to call instruction that's declared on Program B.
+
+![](image_4.png)

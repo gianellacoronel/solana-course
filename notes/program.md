@@ -11,3 +11,5 @@ We have two definitions here
 In a **transaction**, we have _instructions_ (ex. call counter program, initialize counter state) and _accounts_ (Alice, counter account, system program).
 
 - In Solana, transactions could be executed in _parallel_.
+
+![](image_1.png)
